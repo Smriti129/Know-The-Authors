@@ -14,7 +14,7 @@ h1 {
     display: flex;
     padding: 3px 5px;
     justify-content: center;
-    width: 40em;
+    width: 44em;
     flex-direction: row;
     flex-wrap: wrap;
     margin: auto;
